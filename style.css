@@ -6,3 +6,12 @@ section {
   text-align: center;
   padding: 25px 25px;
 }
+figure {
+  text-align: center;
+}
+article {
+  padding-top: 25px;
+}
+h2 {
+  text-align: center;
+}
